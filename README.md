@@ -3,6 +3,8 @@ this is for articles and info that i'm read it in my daily life and search and t
 
 these are sorted by time i read it not by any gategory 
 
+**Contributors are more welcome**
+
 **TODO** 
 - [ ] add categories 
 - [ ] filters articles by categories 
