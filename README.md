@@ -10,7 +10,8 @@ these are sorted by time i read it not by any gategory
 - [ ] filters articles by categories 
 
 
-**Articles**
--  [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.8ppvq5neq). 
+1- **Articles**
+-  [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://goo.gl/ZPoHxv). 
+-  [What 2 Years of Android Development Have Taught Me the Hard Way](https://goo.gl/3yBpxa). 
 
 
