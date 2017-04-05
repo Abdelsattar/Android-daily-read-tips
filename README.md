@@ -13,5 +13,6 @@ these are sorted by time i read it not by any gategory
 1- **Articles**
 -  [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://goo.gl/ZPoHxv). 
 -  [What 2 Years of Android Development Have Taught Me the Hard Way](https://goo.gl/3yBpxa). 
+-  [25 New Android libraries which you definitely want to try at the beginning of 2017](https://goo.gl/mkSPLl)
 
 
