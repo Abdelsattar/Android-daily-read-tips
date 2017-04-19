@@ -19,6 +19,8 @@ these are sorted by time i read it not by any gategory
 -  [Tips for Developing an Android App: My Lessons Learned (from  IVAN DIMOSKI - ANDROID DEVELOPER @ TOPTAL)](https://goo.gl/fMUCMl)
 
 
+2- **Githup Awesome repos**
+-- [Awesome android complete reference](https://goo.gl/0pUQXc)
 
 ### Show Support :muscle::muscle:
 - [![GitHub stars](https://img.shields.io/github/stars/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Star)](https://github.com/Abdelsattar/Android-daily-read-tips)   [![GitHub watchers](https://img.shields.io/github/watchers/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Watch)](https://github.com//Abdelsattar/Android-daily-read-tips)  [![GitHub forks](https://img.shields.io/github/forks/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Fork)](https://github.com/Abdelsattar/Android-daily-read-tips/fork)
