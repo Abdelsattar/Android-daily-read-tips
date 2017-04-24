@@ -17,6 +17,7 @@ these are sorted by time i read it not by any gategory
 -  [Taking the Associate Android Developer Exam](https://goo.gl/q9OlUU).
 -  [Must have tools for Android development](https://goo.gl/GtY58R).
 -  [Tips for Developing an Android App: My Lessons Learned (from  IVAN DIMOSKI - ANDROID DEVELOPER @ TOPTAL)](https://goo.gl/fMUCMl)
+-  [50+ Ultimate Resources to Master Android Development](https://goo.gl/G9pHmI)
 
 2- **Githup Awesome repos**
 - [Awesome android complete reference](https://goo.gl/0pUQXc)
