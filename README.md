@@ -6,7 +6,8 @@ these are sorted by time i read it not by any gategory
 **Contributors are more than welcome**
 
 **TODO** 
-- [ ] add categories 
+- [x] add General categories 
+- [ ] add categories for articles 
 - [ ] filters articles by categories 
 
 
@@ -21,11 +22,18 @@ these are sorted by time i read it not by any gategory
 -  [3 Key Uses for Animation in Mobile UI Design](https://goo.gl/3e7lgR).
 -  [Things I wish I knew when I started building Android SDK/Libraries](https://goo.gl/0bElqb).
 -  [Easy Way To Send Local Notification To User In Android](https://goo.gl/6rHWTD).
--  [Fast Android asset theming with ColorFilter] (https://goo.gl/uaqkye).
-
+-  [Fast Android asset theming with ColorFilter](https://goo.gl/uaqkye).
+-  [Top 10 Most Common Mistakes That Android Developers Make](https://goo.gl/B7TcMg).
+-  [Keep your keys outside Manifest and Gradle](https://goo.gl/zxUELs).
+-  [Memory Leak Patterns in Android](https://goo.gl/zrT3Au).
+-  [EventBus in Android: lessons learned](https://goo.gl/nV24PC).
 
 2- **Githup Awesome repos**
 - [Awesome android complete reference](https://goo.gl/0pUQXc)
+
+3- **Tools to help developing android fast**
+- [Amazing tool i used to inflate the xml into java code (can be used with RoboGuice but not supprot butterknife)](https://goo.gl/EwjIn9).
+- [json schema 2 pojo (i used it with GSON) generate your model classes from json](https://goo.gl/bnAuUv).
 
 ### Show Support :muscle::muscle:
 - [![GitHub stars](https://img.shields.io/github/stars/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Star)](https://github.com/Abdelsattar/Android-daily-read-tips)   [![GitHub watchers](https://img.shields.io/github/watchers/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Watch)](https://github.com//Abdelsattar/Android-daily-read-tips)  [![GitHub forks](https://img.shields.io/github/forks/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Fork)](https://github.com/Abdelsattar/Android-daily-read-tips/fork)
