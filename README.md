@@ -32,7 +32,8 @@ these are sorted by time i read it not by any gategory
 - [Awesome android complete reference](https://goo.gl/0pUQXc)
 
 3- **Tools to help developing android fast**
-- [Amazing tool i used to inflate the xml into java code (can be used with RoboGuice but not support butterknife)](https://goo.gl/EwjIn9).
+- [Amazing website i used to inflate the xml into java code (can be used with RoboGuice but not support butterknife)](https://goo.gl/EwjIn9).
+- [Android Studio plug-in for generating ButterKnife injections from selected layout XML](https://goo.gl/RTHVlF).
 - [json schema 2 pojo (i used it with GSON) generate your model classes from json](https://goo.gl/bnAuUv).
 
 ### Show Support :muscle::muscle:
