@@ -29,7 +29,8 @@ these are sorted by time i read it not by any gategory
 -  [EventBus in Android: lessons learned](https://goo.gl/nV24PC).
 
 2- **Githup Awesome repos**
-- [Awesome android complete reference](https://goo.gl/0pUQXc)
+- [Awesome android complete reference](https://goo.gl/0pUQXc).
+- [Android Best practise in futurice company](https://goo.gl/EuUF6S).
 
 3- **Tools to help developing android fast**
 - [Amazing website i used to inflate the xml into java code (can be used with RoboGuice but not support butterknife)](https://goo.gl/EwjIn9).
