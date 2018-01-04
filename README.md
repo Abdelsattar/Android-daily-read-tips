@@ -37,6 +37,10 @@ these are sorted by time i read it not by any gategory
 - [Android Studio plug-in for generating ButterKnife injections from selected layout XML](https://goo.gl/RTHVlF).
 - [json schema 2 pojo (i used it with GSON) generate your model classes from json](https://goo.gl/bnAuUv).
 
+4- **Common and new libs to use**
+- [Data Binding in Android (setting data into xml file)](https://goo.gl/ECF3zh).
+
+
 ### Show Support :muscle::muscle:
 - [![GitHub stars](https://img.shields.io/github/stars/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Star)](https://github.com/Abdelsattar/Android-daily-read-tips)   [![GitHub watchers](https://img.shields.io/github/watchers/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Watch)](https://github.com//Abdelsattar/Android-daily-read-tips)  [![GitHub forks](https://img.shields.io/github/forks/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Fork)](https://github.com/Abdelsattar/Android-daily-read-tips/fork)
 -    [![Twitter Follow](https://img.shields.io/twitter/follow/abdelsattar512.svg?style=social)](https://twitter.com/abdelsattar512)  [![GitHub followers](https://img.shields.io/github/followers/Abdelsattar.svg?style=social&label=Follow)](https://github.com/Abdelsattar)
