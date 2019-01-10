@@ -28,17 +28,21 @@ these are sorted by time i read it not by any gategory
 -  [Memory Leak Patterns in Android](https://goo.gl/zrT3Au).
 -  [EventBus in Android: lessons learned](https://goo.gl/nV24PC).
 
-2- **Githup Awesome repos**
-- [Awesome android complete reference](https://goo.gl/0pUQXc).
-- [Android Best practise in futurice company](https://goo.gl/EuUF6S).
-
-3- **Tools to help developing android fast**
+2- **Tools to help developing android fast**
 - [Amazing website i used to inflate the xml into java code (can be used with RoboGuice but not support butterknife)](https://goo.gl/EwjIn9).
 - [Android Studio plug-in for generating ButterKnife injections from selected layout XML](https://goo.gl/RTHVlF).
 - [json schema 2 pojo (i used it with GSON) generate your model classes from json](https://goo.gl/bnAuUv).
 
-4- **Common and new libs to use**
+3- **Common and new libs to use**
 - [Data Binding in Android (setting data into xml file)](https://goo.gl/ECF3zh).
+
+______________________ General Topics and repositry about tech and programming ________________
+
+4- **Githup Awesome repos**
+- [Extensive Open-Source Guides for Android Developers](https://guides.codepath.com/android)
+- [Awesome android complete reference](https://goo.gl/0pUQXc).
+- [Android Best practise in futurice company](https://goo.gl/EuUF6S).
+- [Awesome & interesting talks about programming](https://github.com/hellerve/programming-talks).
 
 
 ### Show Support :muscle::muscle:
