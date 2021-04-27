@@ -44,6 +44,9 @@ ______________________ General Topics and repositry about tech and programming _
 - [Android Best practise in futurice company](https://goo.gl/EuUF6S).
 - [Awesome & interesting talks about programming](https://github.com/hellerve/programming-talks).
 
+5- **Testing** 
+- [using livedata in testing with Junit problem][https://stackoverflow.com/a/57843898/3553843] 
+
 
 ### Show Support :muscle::muscle:
 - [![GitHub stars](https://img.shields.io/github/stars/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Star)](https://github.com/Abdelsattar/Android-daily-read-tips)   [![GitHub watchers](https://img.shields.io/github/watchers/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Watch)](https://github.com//Abdelsattar/Android-daily-read-tips)  [![GitHub forks](https://img.shields.io/github/forks/Abdelsattar/Android-daily-read-tips.svg?style=social&label=Fork)](https://github.com/Abdelsattar/Android-daily-read-tips/fork)
